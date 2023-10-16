@@ -7,7 +7,7 @@ Lista de presença:
 2. DENISON **A**
 3. IRIS **A**
 4. ISAQUE **A**
-5. JOÃO PAULO **A**
+5. JOÃO PAULO **PRESENTE**
 6. JOÃO VICTHOR **A**
 7. LUIZ ARTHUR **A**
 8. PAULO **A**
